@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 
 ### Connect with me:<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
-<a href="https://www.linkedin.com/in/kajanan-selvanesan-b31137157/"><img src="./doc/Linkedin.png" alt="drawing" width="50"/></a>
+<a href="https://www.linkedin.com/in/kajanan-selvanesan-b31137157/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
 <a href="https://wa.me/94763068411"><img src="./doc/WhatsApp.png" alt="drawing" width="50"/></a>
-<a href="https://www.facebook.com/kajanan.selvanesan"><img src="./doc/Facebook.png" alt="drawing" width="50"/></a>
+<a href="https://www.facebook.com/kajanan.selvanesan"><img src="./doc/Facebook.png" alt="drawing" width="40"/></a>
 
 <!---
 kajanan1212/kajanan1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
