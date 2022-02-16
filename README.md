@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 ### Connect with me:<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
+<a href="https://wa.me/94763068411"><img src="./doc/WhatsApp.png" alt="drawing" width="80"/></a>
 
 <!---
 kajanan1212/kajanan1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
