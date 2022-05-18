@@ -1,5 +1,5 @@
+<img src="./doc/welcome.gif" alt="drawing" width="400"/></a>
 ## Hi, I’m Kajanan Selvanesan 👋
-<img src="./doc/welcome.gif" alt="drawing" width="200"/></a>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Data Science and Engineering at University of Moratuwa
 - 💞️ I’m looking to collaborate on ...
