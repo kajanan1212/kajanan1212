@@ -1,10 +1,7 @@
 <p align="center">
-  <img 
-    width="300"
-    height="300"
-    src="./doc/welcome.gif"
-  >
+  <img width="400" src="./doc/welcome.gif">
 </p>
+<br>
 ## Hi, I’m Kajanan Selvanesan 👋
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Data Science and Engineering at University of Moratuwa
