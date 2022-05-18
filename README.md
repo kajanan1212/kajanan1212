@@ -1,4 +1,10 @@
-<img src="./doc/welcome.gif" alt="drawing" width="400"/></a>
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="./doc/welcome.gif"
+  >
+</p>
 ## Hi, I’m Kajanan Selvanesan 👋
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Data Science and Engineering at University of Moratuwa
