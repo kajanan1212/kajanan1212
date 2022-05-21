@@ -76,9 +76,15 @@
 
 ### 🔥 My Stats :
 <div float="left">
+  
+<p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kajanan1212&theme=light&background=ffffff)](https://git.io/streak-stats)
-
+</p>
+  
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajanan1212&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+</p>  
+
 </div>
 
 <!--a href="https://www.linkedin.com/in/kajanan-selvanesan/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
