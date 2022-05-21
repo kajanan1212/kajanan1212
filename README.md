@@ -1,12 +1,13 @@
-<h3 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
-
 <p align="center">
   <img width="400" src="./doc/datascientist.png">
 </p>
-<img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt="" align="center"/>
+
+<h3 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt="views" width="10px"/>
+</h3>
 
 
 ### 👨‍💻 About Me :
