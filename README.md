@@ -1,9 +1,12 @@
-# Hey there 👋
-
 <p align="center">
   <img width="400" src="./doc/coding.gif">
 </p>
 <br />
+<img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt=""/>
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### About me:
 - 👀 I’m interested in the Data Science field.
