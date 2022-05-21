@@ -1,13 +1,15 @@
-<p align="center">
-  <img width="250" src="./doc/datascientist.png">
-</p>
+<div float="left">
+  <p align="center">
+    <img width="250" src="./doc/datascientist.png">
+  </p>
 
-<h3 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-  <br /> <br />
-  <img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt="views" width="200px"/>
-</h3>
+  <h3 align="center">
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+    <br /> <br />
+    <img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt="views" width="200px"/>
+  </h3>
+</div>
 
 
 ### 👨‍💻 About Me :
@@ -75,17 +77,10 @@
 ---
 
 ### 🔥 My Stats :
-<div float="left">
-  
-<p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kajanan1212&theme=light&background=ffffff)](https://git.io/streak-stats)
-</p>
-  
-<p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajanan1212&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-</p>  
 
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kajanan1212&theme=light&background=ffffff)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajanan1212&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--a href="https://www.linkedin.com/in/kajanan-selvanesan/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
 <a href="https://wa.me/94763068411"><img src="./doc/WhatsApp.png" alt="drawing" width="50"/></a>
