@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="200" src="./doc/datascientist.png">
+  <img width="250" src="./doc/datascientist.png">
 </p>
 
 <h3 align="center">
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
   <br /> <br />
   <img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt="views" width="200px"/>
 </h3>
@@ -50,8 +50,8 @@
 
 
 ### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kajanan1212&theme=light&background=000000)](https://git.io/streak-stats)
-<br />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kajanan1212&theme=light&background=ffffff)](https://git.io/streak-stats)
+nbsp;nbsp;nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajanan1212&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--a href="https://www.linkedin.com/in/kajanan-selvanesan/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
