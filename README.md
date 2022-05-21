@@ -1,14 +1,14 @@
 <p align="center">
-  <img width="400" src="./doc/coding.gif">
+  <img width="400" src="./doc/datascientist.png">
 </p>
 <br />
 <img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt=""/>
-<h1>
+<h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### About me:
+### 👨‍💻 About Me :
 - 👀 I’m interested in the Data Science field.
 - 🌱 I’m currently learning Data Science and Engineering at University of Moratuwa
 - 💞️ I’m looking to collaborate on Machine Learning or Deep Learning projects.
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
