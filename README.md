@@ -18,7 +18,7 @@
 
 ---
 
-### Connect with me :<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
+### Connect with Me :<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/kajanan-selvanesan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
