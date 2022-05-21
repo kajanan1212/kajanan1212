@@ -1,10 +1,21 @@
 ## Hey there 👋
 
 <p align="center">
-  <img width="300" src="./doc/coding.gif">
+  <img width="400" src="./doc/coding.gif">
 </p>
 <br />
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 - 👀 I’m interested in the Data Science field.
 - 🌱 I’m currently learning Data Science and Engineering at University of Moratuwa
