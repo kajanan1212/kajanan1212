@@ -74,7 +74,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -82,7 +82,7 @@
 ### 🔥 My Stats :
 
 |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kajanan1212&theme=light&background=ffffff)](https://git.io/streak-stats)|![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kajanan1212&theme=buefy&show_icons=true)|
-|----|----|
+|----|------|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajanan1212&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)|[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=kajanan1212&row=2)](https://github.com/ryo-ma/github-profile-trophy)|
 
 <!--a href="https://www.linkedin.com/in/kajanan-selvanesan/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
