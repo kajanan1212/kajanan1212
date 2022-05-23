@@ -2,12 +2,12 @@
 <!--p align="center">
   <img width="300" src="./doc/bg.gif"> <!--datascientist.png>
 </p-->
-|<img width="300" src="./doc/welcome.gif">|<h3 align="center">
+|<img width="300" src="./doc/welcome.gif">|
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
   <br /> <br />
   <img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt="views" width="200px"/>
-</h3>|<img width="300" src="./doc/bg.gif">|
+|<img width="300" src="./doc/bg.gif">|
 |----|----|----|
 
 
