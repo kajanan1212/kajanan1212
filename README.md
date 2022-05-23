@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="./doc/welcome.gif"> <!--datascientist.png-->
+  <img width="300" src="./doc/bg.gif"> <!--datascientist.png-->
 </p>
 
 <h3 align="center">
