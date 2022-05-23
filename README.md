@@ -81,8 +81,8 @@
 
 ### 🔥 My Stats :
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajanan1212&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kajanan1212&theme=light&background=ffffff)](https://git.io/streak-stats)|
-|--------|----|
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kajanan1212&theme=light&background=ffffff)](https://git.io/streak-stats)||[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajanan1212&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)|
+|------|----|
 |![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kajanan1212&theme=buefy&show_icons=true)|[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=kajanan1212&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
 
 <!--a href="https://www.linkedin.com/in/kajanan-selvanesan/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
