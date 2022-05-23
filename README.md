@@ -2,7 +2,7 @@
 <!--p align="center">
   <img width="300" src="./doc/bg.gif"> <!--datascientist.png>
 </p-->
-|<img width="300" src="./doc/welcome.gif">|<img width="400" src="./doc/bg.gif">|
+|<img width="300" src="./doc/welcome.gif">|<img width="350" src="./doc/bg.gif">|
 |----|----|
 <h3 align="center">
   Hey there
