@@ -5,9 +5,7 @@
 |<img width="400" src="./doc/welcome.gif">|<img width="450" src="./doc/bg.gif">|
 |-----|-----|
 <h3 align="center">
-  🤝
-  Hey There
-  🤙
+  Hey There 🤙
   <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="-10px"/-->
   <br /> <br />
   <img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt="views" width="200px"/>
