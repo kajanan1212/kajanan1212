@@ -6,7 +6,7 @@
 |-----|-----|
 <h3 align="center">
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7px"/>
+  <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7px"/-->
   <br /> <br />
   <img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt="views" width="200px"/>
 </h3>
