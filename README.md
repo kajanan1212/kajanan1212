@@ -15,8 +15,9 @@
 ---
 
 ### 👨‍💻 About Me :
+- 🖥️ I’m currently working on H2O.ai Lanka (Pvt) Ltd! as an intern.
 - 👀 I’m interested in the Data Science field.
-- 🌱 I’m currently learning Data Science and Engineering at University of Moratuwa
+- 🌱 I’m currently learning Computer Science and Engineering at University of Moratuwa specialist in Data Science and Engineering.
 - 💞️ I’m looking to collaborate on Machine Learning or Deep Learning projects.
 
 ---
