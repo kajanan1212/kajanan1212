@@ -19,6 +19,7 @@
 - 👀 I’m interested in the Data Science field.
 - 🌱 I’m currently learning Computer Science and Engineering at University of Moratuwa, specialising in Data Science and Engineering.
 - 💞️ I’m looking to collaborate on Machine Learning or Deep Learning projects.
+- 😃 Fun fact: I love to watch films and listen musics.
 
 ---
 
