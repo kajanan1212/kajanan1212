@@ -9,21 +9,8 @@
   <br /> <br />
   <img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt="views" width="200px"/>
 </h3>
-
-
----
-
-### 👨‍💻 About Me :
-- 🖥️ I’m currently working at H2O.ai Lanka (Pvt) Ltd as a Software Engineer.
-- 👀 I’m interested in both Data Science and Software Engineering.
-- 🎓 I’m a Computer Science and Engineering student at the University of Moratuwa, specializing in Data Science and Engineering.
-- 🤝 I’m excited to collaborate on projects in Machine Learning, Deep Learning, Big Data, and Software Engineering.
-- 🎬 Fun fact: I love watching films and listening to music!
-
----
-
-### Connect with Me :<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
-<div id="badges">
+<div id="badges" align="center">
+  <p><img src="./doc/Connect-With-Me.gif" alt="drawing" width="30"/> Connect with me</p>
   <a href="https://www.linkedin.com/in/kajanan-selvanesan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -36,29 +23,18 @@
   <a href="https://www.kaggle.com/kajananselvanesan/">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <!--a href="https://wa.me/94763068411">
-    <img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" alt="Viber Badge"/>
-  </a-->
-  <!--a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a-->
-  <!--a href="https://wa.me/94763068411">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a-->
-  <!--a href="https://wa.me/94763068411">
-    <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="stackoverflow Badge"/>
-  </a-->
-  <!--a href="https://wa.me/94763068411">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a-->
-  <!--a href="https://wa.me/94763068411">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a-->
 </div>
 
----
 
-### 🛠️ Languages and Tools :
+## 👨‍💻 About Me
+- 🖥️ I’m currently working at H2O.ai Lanka (Pvt) Ltd as a Software Engineer.
+- 👀 I’m interested in both Data Science and Software Engineering.
+- 🎓 I’m a Computer Science and Engineering student at the University of Moratuwa, specializing in Data Science and Engineering.
+- 🤝 I’m excited to collaborate on projects in Machine Learning, Deep Learning, Big Data, and Software Engineering.
+- 🎬 Fun fact: I love watching films and listening to music!
+
+
+## 🛠️ Languages & Tools
 <div>
   <!--img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -104,9 +80,8 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp; -->
 </div>
 
----
 
-### 🔥 My Stats :
+## 🔥 My Stats
 
 |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kajanan1212&theme=light&background=ffffff)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajanan1212&layout=compact&theme=vision-friendly-light&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
 |------|----|
